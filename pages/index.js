@@ -13,7 +13,7 @@ export default () => (
                     <article style={{backgroundImage: `url('/static/images/insp-1.jpg')`}}>
                         <header className="major">
                             <h3>About Us</h3>
-                            <p>Know your north</p>
+                            <p>Know our north</p>
                         </header>
                         <Link href="/about"><a className="link primary"></a></Link>
                     </article>
@@ -56,9 +56,9 @@ export default () => (
                 <section id="two">
                     <div className="inner">
                         <header className="major">
-                            <h2>Building the future</h2>
+                            <h2>Impulse</h2>
                         </header>
-                        <p>No se q poner</p>
+                        <p>To build the future, we have to create new things that can impulse humanity and nature.</p>
                         {/*<ul className="actions">
                             <li><Link href="/landing"><a className="button next">Get Started</a></Link></li>
                         </ul>*/}

@@ -453,7 +453,7 @@ var Footer = function Footer(props) {
       columnNumber: 17
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "#",
+    href: "https://github.com/cyc-lab",
     className: "icon alt fa-github",
     __self: _this,
     __source: {
@@ -467,7 +467,7 @@ var Footer = function Footer(props) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6,
-      columnNumber: 64
+      columnNumber: 89
     }
   }, "GitHub")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "copyright",
@@ -11935,7 +11935,7 @@ var _this = undefined,
       lineNumber: 16,
       columnNumber: 29
     }
-  }, "Know your north")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  }, "Know our north")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/about",
     __self: _this,
     __source: {
@@ -12030,14 +12030,14 @@ var _this = undefined,
       lineNumber: 59,
       columnNumber: 29
     }
-  }, "Building the future")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Impulse")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 61,
       columnNumber: 25
     }
-  }, "No se q poner"))))));
+  }, "To build the future, we have to create new things that can impulse humanity and nature."))))));
 });
     (function (Component, route) {
       if(!Component) return
@@ -12072,7 +12072,7 @@ module.exports = "html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,bl
 
 /***/ }),
 
-/***/ 5:
+/***/ 6:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
@@ -12097,5 +12097,5 @@ module.exports = dll_7750fcf18fcd9e84c9fd;
 
 /***/ })
 
-},[[5,"static/runtime/webpack.js"]]]));;
+},[[6,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=index.js.map
