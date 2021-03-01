@@ -18,29 +18,29 @@ export default () => (
                 <section id="one">
                     <div className="inner">
                         <header className="major">
-                            <h2>Design Process</h2>
+                            <h2>Selection</h2>
                         </header>
-                        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+                        <p>We work on projects that have the purpose of improving knowledge about ourselves, providing people with the necessary tools to achieve that well-being that allows them to fully develop in their day to day life.</p>
                     </div>
                 </section>
                 <section id="two" className="spotlights">
                     <section>
-                        <Link href="/generic">
-                            <a className="image"><img src="/static/images/pic08.jpg" alt="" /></a>
-                        </Link>
+                        <div className="image">
+                            <img src="/static/images/cconsciente-workflow.png" alt="" />
+                        </div>
                         <div className="content">
                             <div className="inner">
                                 <header className="major">
                                     <h3>Cconsciente</h3>
                                 </header>
-                                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                                <p>Web app development for cloud computing EEG processing. We diagram the signal processing workflow to be more intuitive.</p>
                                 <ul className="actions">
                                     <li><Link href="/project/cconsciente"><a className="button">Learn more</a></Link></li>
                                 </ul>
                             </div>
                         </div>
                     </section>
-                    <section>
+                    {/*<section>
                         <Link href="/generic">
                             <a className="image"><img src="/static/images/pic09.jpg" alt="" /></a>
                         </Link>
@@ -71,7 +71,7 @@ export default () => (
                                 </ul>
                             </div>
                         </div>
-                    </section>
+                    </section>*/}
                 </section>
             </div>
 

@@ -23,7 +23,7 @@ export default () => (
                     <p>.</p>
                     <p>.</p>
                     <p>.</p>
-                    <li><a href="https://github.com/chrisferreyra13/CConsciente" className="icon alt fa-github"><span className="label">GitHub</span></a></li>
+                    <a href="https://github.com/chrisferreyra13/CConsciente" className="icon alt fa-github"><span className="label">GitHub</span></a>
                 </div>
             </section>
         </div>

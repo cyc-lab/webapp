@@ -11,6 +11,14 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
+    "/project/cconsciente": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/about": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
     "/projects": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
